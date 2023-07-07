@@ -1,4 +1,6 @@
 package myapp;
 
-public class Z {
+import java.io.Serializable;
+
+public class Z implements Serializable {
 }
