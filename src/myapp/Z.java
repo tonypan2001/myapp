@@ -1,4 +1,7 @@
 package myapp;
 
-public class Z extends AbstractMethodError{
+import java.io.Serializable;
+
+public class Z implements Serializable {
+
 }
